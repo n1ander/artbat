@@ -5,7 +5,6 @@ This is a simple python script that reads in two text files. The first is a list
 I needed to generate 40 names for each point in the list. Instead of doing this manually, which would take a while, I quickly created a python script to do it for me.
 
 ## Tech
-Ex. -
 <b>Built with</b>
 - [Python](https://www.python.org/)
 
