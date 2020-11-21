@@ -6,8 +6,8 @@ I needed to generate 40 names for each point in the list. Instead of doing this 
 
 ## Tech
 Ex. -
-<b>Built with</>
-- [Python](hhttps://www.python.org/)
+<b>Built with</b>
+- [Python](https://www.python.org/)
 
 ## Installation
 Python 3 is the only requirement for this project. There were not any third party modules used.
